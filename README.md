@@ -1,0 +1,2 @@
+# codeCheckerDocker
+Dockerfile for CodeChecker
